@@ -120,7 +120,7 @@
     margin: 1.25em 0;
 }
 .right{
-    background-image: url("/images/bg-intro-desktop.svg");
+    background-image: url("images/bg-intro-desktop.svg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
